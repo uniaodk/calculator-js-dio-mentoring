@@ -5,7 +5,7 @@ Project mentoring for the course [Formação Java Script](https://www.dio.me/boo
 Based on initial repository https://www.youtube.com/watch?v=NRfn_y7mSl0&t=4442s
 
 # Mentoring
-A calculator a activity to learn JS
+Build a calculator as activity to learn JS
 
 # Example
 <img src="https://github.com/uniaodk/calculator-js-dio-mentoring/assets/52884069/e0c5ffd7-5285-4844-9b3f-afb00f325ad1" width="200"/>
